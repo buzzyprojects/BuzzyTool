@@ -1,7 +1,6 @@
 # **BuzzyTool**
 
-## **Disclaimer**
-**BuzzyTool** is designed strictly for **educational purposes**. Use it **only** on servers you own or where you have **explicit permission**. The developer of BuzzyTool is **not responsible** for any misuse of this tool.  
+> **BuzzyTool** is designed strictly for **educational purposes**. Use it **only** on servers you own or where you have **explicit permission**. The developer of BuzzyTool is **not responsible** for any misuse of this tool.  
 
 ## **Features**
 BuzzyTool offers several administrative and automation functionalities for learning and testing purposes:
