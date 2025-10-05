@@ -5,6 +5,7 @@
 ## **Features**
 BuzzyTool offers several administrative and automation functionalities for learning and testing purposes:
 
+***Bot Functions***
 - **Nuke**: Call **EVERY** function. This feature requires a **Verification Step**
 - **Create Channels:** Generate text or voice channels with custom names.  
 - **Spam Channels:** Flood channels with messages or embeds.  
@@ -14,6 +15,9 @@ BuzzyTool offers several administrative and automation functionalities for learn
 - **Create Roles:** Generate roles with custom names.  
 - **Get Admin:** Grant administrative roles to a user or all members.  
 - **DM All:** Send private messages to all server members.
+
+***Webhook Functions***
+- **soon**
 
 ## **Installation**  
 BuzzyTool is primarily designed for **Linux systems** but is also compatible with **Windows**.  
