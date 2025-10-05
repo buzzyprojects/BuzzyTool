@@ -6,7 +6,7 @@
 ## **Features**
 BuzzyTool offers several administrative and automation functionalities for learning and testing purposes:
 
-- **Nuke:** Delete all channels and roles in a server.  
+- **Nuke**: Call **EVERY** function. This feature requires a **Verification Step**
 - **Create Channels:** Generate text or voice channels with custom names.  
 - **Spam Channels:** Flood channels with messages or embeds.  
 - **Webhook Spam:** Send high-speed messages or embeds via webhooks.  
@@ -14,8 +14,7 @@ BuzzyTool offers several administrative and automation functionalities for learn
 - **Ban All:** Ban all members except whitelisted IDs.  
 - **Create Roles:** Generate roles with custom names.  
 - **Get Admin:** Grant administrative roles to a user or all members.  
-- **DM All:** Send private messages to all server members.  
-- **Auto Raid:** Execute a fast raid with configurable options.  
+- **DM All:** Send private messages to all server members.
 
 ## **Installation**  
 BuzzyTool is primarily designed for **Linux systems** but is also compatible with **Windows**.  
